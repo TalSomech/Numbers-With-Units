@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test3.dir/NumberWithUnits.cpp.o CMakeFiles/test3.dir/StudentTest2.cpp.o -o test3 

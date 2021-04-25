@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tal/Desktop/c++ assignments/Numbers-With-Units/number-with-units-b/NumberWithUnits.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+stdexcept
+-
+NumberWithUnits.hpp
+/home/tal/Desktop/c++ assignments/Numbers-With-Units/number-with-units-b/NumberWithUnits.hpp
+string
+-
+algorithm
+-
+
+/home/tal/Desktop/c++ assignments/Numbers-With-Units/number-with-units-b/NumberWithUnits.hpp
+unordered_map
+-
+iostream
+-
+fstream
+-
+sstream
+-
+stdexcept
+-
+string
+-
+vector
+-
+
